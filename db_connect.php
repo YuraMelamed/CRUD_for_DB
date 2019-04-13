@@ -9,4 +9,3 @@ try {
 	echo'Cannot create conection';
 	die;
 }
-?>

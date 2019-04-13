@@ -13,4 +13,3 @@
 			return parent::showInfo() . 'Average Mark: ' . $this->averageMark;
 		} 
 	}
-?>

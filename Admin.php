@@ -13,4 +13,3 @@
 			return parent::showInfo() . 'Working Day: ' . $this->workingDay;
 		} 
 	}
-?>

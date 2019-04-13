@@ -47,5 +47,5 @@ require_once('list.php');
 	die;
 	}
 
-?>
+
 

@@ -92,5 +92,4 @@
 			'role' => 'admin',
 			'workingDay' => 'Tuesday', 
 		],
-	]	
-?>
+	]

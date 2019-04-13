@@ -13,4 +13,3 @@
 			return parent::showInfo() . 'Subject: ' . $this->subject;
 		} 
 	}
-?>
